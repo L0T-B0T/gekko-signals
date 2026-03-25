@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-03-25T23:04:12Z",
+  "risk_level": "EXTREME",
+  "risk_score": 63,
+  "action": "REDUCE_EXPOSURE",
+  "direction": "FLAT_OPEN",
+  "vix": {
+    "level": 25.33,
+    "overnight_change": 5.28
+  },
+  "futures": {
+    "es_gap": 0.54,
+    "nq_gap": 0.1,
+    "avg_gap": -0.17,
+    "max_gap": 7.39
+  },
+  "energy": {
+    "crude_gap": -7.4
+  },
+  "gold_gap": -1.14,
+  "risk_factors": [
+    "VIX ELEVATED: 25.3",
+    "LARGE GAP: 7.4%",
+    "GLOBAL DIVERGE: 3.2%",
+    "ENERGY SHOCK: crude -7.4%"
+  ],
+  "recommendation": "EXTREME risk (63/100). REDUCE_EXPOSURE. FLAT_OPEN."
+}
