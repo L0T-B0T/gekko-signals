@@ -1,0 +1,60 @@
+{
+  "signal_type": "consolidated_market_brief",
+  "version": "2.0",
+  "timestamp": "2026-03-26T14:10:53Z",
+  "source": "aaron/gekko-signals",
+  "tools_run": 11,
+  "tools_ok": 1,
+  "market_regime": {
+    "regime": "unknown",
+    "confidence": 0,
+    "vix": null,
+    "vix_5d_change": null,
+    "growth_defensive_spread": null
+  },
+  "sentiment": {
+    "overall": 0,
+    "label": "unknown",
+    "headlines_analyzed": 0,
+    "sectors": {}
+  },
+  "breadth": {
+    "pct_above_sma20": null,
+    "signal": "unknown",
+    "dispersion": null,
+    "leading": [],
+    "lagging": []
+  },
+  "correlations": {
+    "spy_tlt": null,
+    "xle_spy": null,
+    "decorrelation_alerts": []
+  },
+  "volatility": {
+    "regime": "unknown",
+    "avg_ratio": null,
+    "expanding": [],
+    "compressed": []
+  },
+  "options_flow": {
+    "overall_pc_ratio": null,
+    "bias": "unknown",
+    "sectors": {}
+  },
+  "events_next_48h": [],
+  "sector_rotation": {
+    "signal": "unknown",
+    "confidence": 0,
+    "leaders": [],
+    "laggers": []
+  },
+  "overnight_risk": {
+    "score": null,
+    "level": "unknown",
+    "factors": []
+  },
+  "position_sizing": {
+    "recommendation": "normal",
+    "reason": "mixed_signals"
+  }
+}

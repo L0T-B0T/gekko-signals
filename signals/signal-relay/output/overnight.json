@@ -1,0 +1,1 @@
+{"tool": "overnight", "error": "no_json", "raw": "Usage: /data/workspace/gekko-signals/signals/overnight-risk/overnight-risk.sh [scan|daemon [interval_seconds]]\n  scan   - One-shot risk assessment (default)\n  daemon - Continuous monitoring with alert"}

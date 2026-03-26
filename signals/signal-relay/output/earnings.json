@@ -1,0 +1,1 @@
+{"tool": "earnings", "error": "no_json", "raw": "[14:11:55] === Pre-Earnings Positioning Scanner v1.0 ===\n[14:11:55] Tickers: --json\n[14:11:55] Analyzing --json...\n\n  NVDA: ERROR \u2014 price_fetch_fail\nJSON output: /data/workspace/gekko-signals/signals/"}

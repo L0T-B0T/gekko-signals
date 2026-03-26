@@ -1,0 +1,45 @@
+{
+  "signal_type": "sentiment",
+  "timestamp": "2026-03-26T14:11:40Z",
+  "data": {
+    "overall_sentiment": -0.119,
+    "overall_label": "mildly_bearish",
+    "sectors": {
+      "energy": {
+        "score": -0.143,
+        "label": "mildly_bearish",
+        "headlines": 28,
+        "top_headline": "Dow Set to Open Down Amid Iran Peace-Talk Fears - Barron's"
+      },
+      "tech": {
+        "score": -0.056,
+        "label": "mildly_bearish",
+        "headlines": 18,
+        "top_headline": "Oil Prices Surge, EVs Gain Consumer Attention - Gotrade"
+      },
+      "macro": {
+        "score": -0.25,
+        "label": "bearish",
+        "headlines": 12,
+        "top_headline": "The Stock Market Flashed a Warning Sign for the First Time Since the Dot-Com Bubble. History Offers a Remarkably Clear I"
+      },
+      "defense": {
+        "score": 1.0,
+        "label": "very_bullish",
+        "headlines": 1,
+        "top_headline": "Wall Street follows global markets lower with missiles fired at Israel and confusion on peace talks - BNN Bloomberg"
+      }
+    },
+    "momentum": "stable",
+    "headline_count": 47,
+    "signal_strength": "weak",
+    "key_themes": [
+      "ai-momentum",
+      "iran-conflict",
+      "oil-volatility",
+      "tech-rotation"
+    ]
+  },
+  "confidence": 0.95,
+  "source": "news-sentiment-v1"
+}
